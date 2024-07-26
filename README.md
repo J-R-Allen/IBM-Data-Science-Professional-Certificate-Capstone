@@ -1,4 +1,4 @@
-# IBM_Data_Science_Capstone
+# IBM Data Science Capstone
 Throughout this capstone I applied my data science skills as a Data scientist for a private space launch company in this project.    
 
 As a starting point of my data science project, I collected data, as much and relevant as possible.
